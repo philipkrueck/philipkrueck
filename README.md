@@ -10,4 +10,4 @@ I am passionate about my work as there is always more to learn.
 
 - Building the next generation GPU cloud platform at Genesis Cloud.
 - Working on becoming a "Kubestronaut".
-- In my free time I'm currently exploring web3 development. I'm building a NFT/Token creator on the Solana blockchain which is fully open source at [solstamp.io](https://solstamp.io).
+- Building [solstamp.io](https://solstamp.io) - a no-code NFT creator on the Solana blockchain which is fully open source at .
