@@ -1,6 +1,6 @@
 # Philip Krück
 
-Software Engineer | DevOps Engineer | Command Line Enthusiast
+Backend Engineer | DevOps Engineer | Command Line Enthusiast
 
 I work mainly in TypeScript, Golang, Rust, Python, Kubernetes and Postgres.
 
